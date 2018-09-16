@@ -1,0 +1,65 @@
+Problem 1
+A) 
+
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+B)
+
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+    new file:   fun_problem.txt
+    modified:   README.md
+
+C)
+
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+    new file:   fun_problem.txt
+    modified:   README.md
+
+D)
+
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+    modified:   README.md
+    modified:   fun_problem.txt
+
+E)
+
+Already on 'master'
+Your branch is up-to-date with 'origin-master'
+
+F)
+
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+    modified:   README.md
+
+Problem 3
+	1. Map - I would choose map because it allows us to store a key with an associated value. And, in this case, the key would be the zip code and the value would be the voting statistic. I chose a map because it is fast and you can search for an element in O(log n).
+
+	2. Array of Strings - I would choose this data type because to store all the names of the students who complete the chocolate problem. 
+
+	3. Set of Struct - I would choose this data type because a set is sorted. Also, a pokemon is an object of Struct. And, I will define a comparison function to sort the Pokemons according to their pokedex index.
+
+	4. Array of Struct - Where Struct defines the object (movie) containing fields like movie name, year of release and number of reviews.
+
+Problem 4
+
